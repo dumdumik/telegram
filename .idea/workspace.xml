@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="107" column="110" lean-forward="true" selection-start-line="107" selection-start-column="110" selection-end-line="107" selection-end-column="110" />
+            <state relative-caret-position="1081">
+              <caret line="131" column="3" selection-start-line="131" selection-start-column="3" selection-end-line="131" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="136">
+              <caret line="8" column="32" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -57,10 +57,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2079" />
-    <option name="y" value="-21" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -126,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739345483584</updated>
-      <workItem from="1739345484699" duration="2999000" />
+      <workItem from="1739345484699" duration="4016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2999000" />
+    <option name="totallyTimeSpent" value="4016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -169,15 +169,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="107" column="110" lean-forward="true" selection-start-line="107" selection-start-column="110" selection-end-line="107" selection-end-column="110" />
+        <state relative-caret-position="1081">
+          <caret line="131" column="3" selection-start-line="131" selection-start-column="3" selection-end-line="131" selection-end-column="3" />
         </state>
       </provider>
     </entry>
